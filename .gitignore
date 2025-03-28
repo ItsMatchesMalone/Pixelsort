@@ -1,0 +1,3 @@
+# Ignore raw TIFF images
+Aphelion/*.tif
+Aphelion/*.TIF
